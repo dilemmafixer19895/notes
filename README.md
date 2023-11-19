@@ -14,3 +14,6 @@ Remember to stay flexible and adaptable. As you work, things may change, so be p
 
 # 2023-11-18
 - "Keep it simple, stupid!"
+
+# 2023-11-19
+- "Today's programming wisdom is to write code that is clear and easy to understand, rather than overly complex and difficult to maintain. This means using descriptive variable names, writing concise and well-structured functions, and commenting your code thoroughly. Remember, code is read far more often than it is written, so make it easy for others (and your future self) to read and understand."
