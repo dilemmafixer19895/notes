@@ -28,3 +28,8 @@ Remember to stay flexible and adaptable. As you work, things may change, so be p
 - Today's programming wisdom is to be a lifelong learner, always staying up-to-date with the latest technologies and programming languages. This involves reading blogs, articles, and books, attending workshops and conferences, as well as participating in online communities and forums. By constantly updating your knowledge and skills, you will become a more valuable asset to your team or company, allowing you to contribute more effectively to projects and solve problems more efficiently.
 
 Another important aspect of programming wise is understanding the basics of computer science, such as data structures, algorithms, programming paradigms, etc. These concepts will help you write better, more efficient code, which will lead to better performance and fewer bugs. Additionally, learning to code with multiple programming language can open up new opportunities and give you a broader perspective on how to approach problems.
+
+# 2023-11-23
+- "Every line of code you write is a liability. Every line of code you don't write is an asset." - Jeff Atwood
+
+This quote emphasizes the importance of writing concise and efficient code. Every line of code that you write increases the complexity of your program, making it harder to maintain and debug. Therefore, it's important to strive for simplicity and avoid unnecessary code whenever possible. On the other hand, not writing unnecessary code can make your program more robust, easier to understand, and less prone to bugs. So, always aim to write clean and minimalistic code.
