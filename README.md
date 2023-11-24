@@ -33,3 +33,6 @@ Another important aspect of programming wise is understanding the basics of comp
 - "Every line of code you write is a liability. Every line of code you don't write is an asset." - Jeff Atwood
 
 This quote emphasizes the importance of writing concise and efficient code. Every line of code that you write increases the complexity of your program, making it harder to maintain and debug. Therefore, it's important to strive for simplicity and avoid unnecessary code whenever possible. On the other hand, not writing unnecessary code can make your program more robust, easier to understand, and less prone to bugs. So, always aim to write clean and minimalistic code.
+
+# 2023-11-24
+- "Keep it simple, stupid!"
