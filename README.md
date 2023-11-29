@@ -54,3 +54,6 @@ To be successful in programming, it' s essential to have a solid foundation in m
 
 # 2023-11-28
 - Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your work. By prioritizing tasks based on their importance and urgency, you can ensure that you focus on the right things and don't get sidetracked. Planning ahead can help to avoid last-minute emergencies and ensure you have enough time to complete all of your tasks. Finally, staying organized by using tools like task lists, calendars, or project management software can keep you from getting lost in the details and help ensure your projects stay on track.
+
+# 2023-11-29
+- Today's programming wisdom is to prioritize tasks, plan your time wisely, and stay organized. This will help you to be more efficient and productive in your work. First, make a list of all the tasks you need to complete, then prioritize them based on their importance and urgency. Next, allocate time for each task, taking into account the complexity and your own availability. Finally, use task management tools and versions control systems to stay organised and track your progress. By following these steps, you will be able to finish your tasks more quickly and with fewer mistakes.
