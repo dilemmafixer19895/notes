@@ -62,3 +62,6 @@ To be successful in programming, it' s essential to have a solid foundation in m
 - "Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the universe trying to produce bigger and better idiots. So far, the universe is winning." - Rich Cook
 
 This quote highlights the importance of creating user-friendly and intuitive software, as well as the ongoing challenge developers face in anticipating and accounting for user behavior. It also serves as a reminder that while technology can greatly enhance our lives, it is ultimately up to us as humans to use it responsibly and intelligently.
+
+# 2023-12-01
+- "Keep it simple, stupid!"
