@@ -65,3 +65,13 @@ This quote highlights the importance of creating user-friendly and intuitive sof
 
 # 2023-12-01
 - "Keep it simple, stupid!"
+
+# 2023-12-02
+- Today's programming wisdom is to always prioritize code readability and maintainability. This means writing concise, well-structured, and easy-to-understand code that can be easily modified and expanded upon as needed. To achieve this, follow these best practices:
+
+1. Use clear variable, function, method, class, module, etc. names that accurately represent their purpose and functionality.
+2. Follow coding conventions and standards for the language and framework you're using. These guidelines exist to ensure consistency and reduce confusion. 
+3. Break your code into logical, modular, reusable chunks. By doing this you can easily understand and modify each part independently, making maintenance and collaboration easier.  
+4. Comment your Code. Write concise but descriptive comments that explain the purpose, logic, or implementation of code blocks. Not only does this help you understand your own code better, but it also makes it easier for others to follow along.   
+5. Optimize for readibility and understandability, not just performance. While performance is important, optimizing code solely for speed can make it harder to understand. A well written, performant, easy to read and understandable piece of software is preferable to a fast piece that no one can understand or maintain.    
+6. Continuously learn and adapt to new technologies and best-practices. The world of programming is constantly evolving, so staying up-do-date with new tools, languages, frameworks, libraries, patterns, practices, et cetera, can help improve your coding skills and the quality of your work.
