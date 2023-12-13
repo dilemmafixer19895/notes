@@ -115,3 +115,6 @@ Next, planning ahead is crucial. Before starting a new project or a difficult co
 
 # 2023-12-12
 - "Keep it simple, stupid!"
+
+# 2023-12-13
+- "Keep it simple, stupid!"
