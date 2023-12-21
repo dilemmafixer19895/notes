@@ -154,3 +154,10 @@ This quote reminds us that optimizing code before it's necessary can often lead 
 
 # 2023-12-20
 - "Keep it simple, stupid!"
+
+# 2023-12-21
+- Today's programming wisdom is to be a lifelong learner, always open to new ideas and technologies. This means staying up-to-date with the latest programming languages, frameworks, and tools. It also means being willing to take the time to understand the fundamentals of computer science and data structures.
+
+To be successful as a programmer, it' s essential to have a deep understanding of the problem you' re trying to solve and the tools available to you. By understanding the ins and outs of different programming paradigms, such as procedural, object-oriented, or functional programming, you can make more informed decisions about which approach is best for a given task. Additionally, being familiar with design patterns and best practices can help you create more efficient and maintainable code. 
+ 学习新技能并不断挑战自己是很重要的。这可以通过参加编程竞赛、参加黑客马拉松或为开源项目做贡献来实现。这些活动不仅可以帮助你提高编程技能，还可以让你结识志同道合的专业人士，建立有价值的人际关系。
+ 最后，保持耐心和毅力是成为一名成功程序员的关键。学习编程可能会很困难，但通过不断实践和反思，你将逐渐掌握所需的技能。记住，成为一名优秀的程序员是一个持续的过程，而不是一个终点。
