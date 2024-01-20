@@ -289,3 +289,8 @@ Translation:
 4. Stay organized: Use project management tools, such as Trello or Asana, to keep track of tasks and deadlines. Organize your code and files neatly, using version control systems like Git. Keeping your workspace clean and organized will reduce the risk of mistakes and confusion.   
 5. Learn from others: Read blogs, watch tutorials, or attend workshops to learn new skills and best practices. Sharing knowledge with others is also a great way to grow and improve.    
 6. Be patient and persistent: Learning programming can be challenging, but it' s essential to stay patient. Persistence and practice will lead to success. Don 't be afraid to ask for help or try a different approach if something isn ' t working.
+
+# 2024-01-20
+- "Today's programming wisdom: 'Simplicity is the ultimate sophistication.' — Leonardo da Vinci. In software development, it means writing clean, maintainable code that solves the problem at hand without unnecessary complexity. Always strive to make your code as simple as possible, but not simpler." 
+
+In practice, this may involve breaking down complex problems into smaller, more manageable parts (modularization), adhering to the DRY principle (Don't Repeat Yourself), choosing the right abstractions, and constantly refactoring to remove clutter. Remember, the goal is not just to write code that computers can understand, but also for humans to read, review, and extend with ease.
