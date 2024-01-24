@@ -306,3 +306,8 @@ One of the most important aspects of programming is problem-solving. When faced 
 
 # 2024-01-23
 - "Keep it simple, stupid!"
+
+# 2024-01-24
+- "Today's programming wisdom: 'Premature optimization is the root of all evil' — Donald Knuth. Focus on writing clean, maintainable code first. Optimize only when necessary and after profiling. Remember that clarity and simplicity often lead to better performance in the long run." 
+
+In more detail but still brief: This quote by computer scientist Donald Knuth reminds us that striving to optimize code before it's needed or without evidence can introduce unnecessary complexity, bugs, and harder maintenance cycles. It's crucial to understand the actual bottlenecks through measurement and analysis before applying optimizations. Often, well-structured and readable code performs adequately and can be optimized effectively when required.
