@@ -375,3 +375,9 @@ This quote emphasizes the importance of not over-engineering or trying to optimi
 
 # 2024-02-09
 - "Today's programming wisdom is to embrace the power of modularity and simplicity. Write code that's easy to understand, test, and maintain. Always remember: 'Clear is better than clever.' Strive for readability, use well-named variables and functions, and practice abstraction to manage complexity. Also, never underestimate the importance of version control, automated testing, and documentation. Lastly, as Donald Knuth wisely said, 'Premature optimization is the root of all evil.' Focus on writing correct and clear code first, then optimize if necessary."
+
+# 2024-02-10
+- Today's programming wisdom is to be a lifelong learner and adapt to the ever-changing world of technology. This means staying up-to-date with the latest programming languages, frameworks, and tools, as well as understanding the best practices and patterns for solving problems effectively.
+
+To be successful in programming, it is essential to have a solid foundation in computer science concepts, such as data structures, algorithms, software engineering, etc. Additionally, being able to communicate effectively with colleagues, clients, or team members is crucial for problem-solving and collaboration. 
+ - 来自NLP
