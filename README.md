@@ -384,3 +384,6 @@ To be successful in programming, it is essential to have a solid foundation in c
 
 # 2024-02-11
 - Today's programming wisdom is to prioritize tasks, plan your time wisely, and stay organized. This will help you to be more efficient and productive in your work. By using version control systems like Git, you can keep track of your code and collaborate with others more effectively. Always strive to write clean, readable,and modular code, as this will make it easier for you and others to maintain and add to your project. Don't be afraid to ask for help or to learn new skills, because this is what will keep you progressing in the world of programming. Remember that continuous learning and adaptation are the keys to success in this ever-changing field.
+
+# 2024-02-12
+- Today's programming wisdom is to prioritize tasks, plan your time wisely, and stay organized. This will help you to be more efficient and productive in your work. First, make a list of all the tasks you need to complete, then prioritize them based on their importance and urgency. Next, allocate time for each task, taking into account the complexity and your own availability. Finally, use task management tools and versions control systems to stay organised and track your progress. By following these steps, you will be able to finish your tasks more quickly and with fewer mistakes.
